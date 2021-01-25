@@ -1,0 +1,127 @@
+/*****
+                            TOP
+                                                  *****/
+.top-container {
+  background-color: #06623b;
+  flex-direction: row;
+}
+body {
+  margin: 0;
+  font-family: 'Grenze Gotisch', cursive;
+}
+h1 {
+  font-size: 120px;
+  letter-spacing: 20px;
+  margin-top: 0;
+  margin-bottom: 0;
+  text-align: center;
+  padding-top: 20px;
+}
+p {
+  margin-top: 0;
+  margin-bottom:10px;
+}
+
+.moon {
+  width:25px;
+  margin-right: auto;
+  margin-left: auto;
+  display: block;
+  padding-top: 20px;
+  padding-bottom: 0;
+}
+.details {
+  text-align: center;
+  margin-top: 0;
+  margin-bottom: 20px;
+  font-size: 17px;
+}
+.inside-top {
+  display: inline-flex;
+  flex-direction: column;
+  margin-left: 50px;
+  padding-bottom: 20px;
+}
+.name {
+  font-size: 25px;
+}
+.pic {
+  text-align: center;
+}
+.profile-pic:hover {
+  position: relative;
+  bottom: 6px;
+}
+
+/*****
+                            MIDDLE
+                                                  *****/
+.middle-container {
+  background-color: #f6f578;
+  padding-bottom: 30px;
+}
+
+h3 {
+
+  font-size:25px;
+  margin-top: 0;
+  margin-bottom: 20px;
+  padding-top: 25px;
+  letter-spacing: 2px;
+  text-align: center;
+}
+
+hr {
+  border-style:none;
+  border-top-style:dotted;
+  border-color:#649d66;
+  border-width:7px;
+  height:0;
+  width:4%;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.album-names {
+  letter-spacing: 5px;
+  font-size: 20px;
+  text-align: left;
+  padding-bottom: 10px;
+  position: relative;
+  left: 70px;
+}
+
+
+.album-names:hover {
+  position: relative;
+  top: 2px;
+}
+
+a {
+  color: black;
+  text-decoration: none;
+}
+
+.dist {
+  text-align: center;
+}
+
+.aa {
+  padding-top: 0;
+  padding-bottom: 0;
+}
+.award {
+  text-align: left;
+  padding-bottom: 10px;
+}
+
+.award-name {
+  letter-spacing: 2px;
+  font-size: 20px;
+}
+/*****
+                            BOTTOM
+                                                  *****/
+.bottom-container {
+
+}
